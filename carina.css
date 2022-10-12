@@ -6,7 +6,7 @@ html, body {
 }
 
 body {
-    background-color: rgb(243, 206, 206);
+    background-color: #f3cece;
 }
 
 .top-bar {
@@ -45,13 +45,13 @@ body {
 }
 
 .top-menu li a:link, .top-menu li a:visited {
-    color: rgb(168, 232, 39);
+    color: #a8e827;
     text-decoration: none;
     padding: 20px 20px 20.5px 20px;
 }
 
 .top-menu li a:hover {
-    background-color: rgb(238, 111, 111);
+    background-color: #ee6f6f;
 }
 
 .current-page-link {
@@ -64,7 +64,7 @@ body {
     max-width: 1000px;
     margin-left: auto;
     margin-right: auto;
-    background-color: rgb(224, 202, 123);
+    background-color: #e0ca7b;
     z-index: 1;
 }
 
@@ -73,13 +73,13 @@ body {
 }
 
 .main-section h1, .main-section h2 {
-    color: rgb(108, 18, 18);
+    color: #6c1212;
 }
 
 .main-section figure, .main-section img {
     display: block;
     margin: auto;
-    width: 900px;
+    width: 700px;
 }
 
 .footer {
@@ -94,7 +94,7 @@ body {
 
 .footer-content {
     padding: 5px 5px 5px 20px;
-    color: rgb(239, 197, 197);
+    color: #efc5c5;
 }
 
 .footer-content a:link {
